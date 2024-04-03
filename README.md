@@ -1,1 +1,1 @@
-### Building NNPs for ammonia and ammonia-hydrogen combustion
+### NNPs for ammonia and ammonia-hydrogen combustion
